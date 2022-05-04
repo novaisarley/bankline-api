@@ -1,4 +1,4 @@
-package com.dio.arley.santander.bankline.api;
+package com.dio.arley.santander.bankline.api.banklineapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
